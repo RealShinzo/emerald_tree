@@ -16,7 +16,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/xiaomi/emerald/device.mk)
 
 PRODUCT_DEVICE := emerald
-PRODUCT_NAME := omni_emerald
+PRODUCT_NAME := twrp_emerald
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := emerald
 PRODUCT_MANUFACTURER := xiaomi
